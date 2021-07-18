@@ -25,7 +25,7 @@
 
 5. [Machine Learning](https://github.com/mikeroyal/Biometrics-Guide#machine-learning)
 
-6. [MATLAB](https://github.com/mikeroyal/Biometrics-Guide#matlab)
+6. [MATLAB Development](https://github.com/mikeroyal/Biometrics-Guide#matlab-development)
 
 7. [R Development](https://github.com/mikeroyal/Biometrics-Guide#r-development)
 
@@ -45,7 +45,7 @@
   <br />
 </p>
 
-# Bioinformatics Learning Resources
+# Biometrics Learning Resources
 [Back to the Top](https://github.com/mikeroyal/Biometrics-Guide#table-of-contents)
 
 [Biometrics](https://www.dhs.gov/biometrics) are unique physical characteristics, such as fingerprints, iris and facial recognition, and voice patterns, that can be used for automated recognition/authentication.
