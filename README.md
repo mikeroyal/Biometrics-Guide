@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/126080537-71e7d989-0e67-48ad-a13f-ad100ee439ac.png">
   <br />
   Biometrics Guide
 </h1>
@@ -9,7 +9,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/126080551-3353f1b5-8f80-42c9-8441-a085465f23d6.png">
   <br />
 </p>
 
@@ -39,6 +39,11 @@
 
 12. [PHP Development](https://github.com/mikeroyal/Biometrics-Guide#php-development)
 
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/126080548-77e08084-01c5-4806-b789-1673d5426c52.png">
+  <br />
+</p>
 
 # Bioinformatics Learning Resources
 [Back to the Top](https://github.com/mikeroyal/Biometrics-Guide#table-of-contents)
@@ -500,7 +505,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 [Back to the Top](https://github.com/mikeroyal/Biometrics-Guide#table-of-contents)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/94961906-704d5600-04aa-11eb-8721-34266eee5200.png">
+ <img src="https://user-images.githubusercontent.com/45159366/126080648-b515b7c0-e1bd-481b-92d2-c9cdd98ac30c.png">
   <br />
 </p>
 
